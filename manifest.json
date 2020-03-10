@@ -1,0 +1,22 @@
+{
+    "short_name": "Cars", 
+    "name": "Cars App", 
+    "description": "App for Cars", 
+    "icons": [ 
+        { 
+            "src": "icons-192.png", 
+            "type": "image/png", 
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons-512.png",
+            "type": "image/png", 
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/index.html", 
+    "background_color": "white",
+    "display": "standalone", 
+    "scope": "/", 
+    "theme_color": "white"
+}
